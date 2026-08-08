@@ -1,6 +1,0 @@
-{
-  "name": "Inventaris IRIN RS Mardi Rahayu",
-  "description": "Sistem Informasi Manajemen Inventaris Alat Kesehatan IRIN RS Mardi Rahayu - Kalibrasi, Preventive & Corrective Maintenance, QR/Barcode, Sparepart, Peminjaman, REST API, dan Audit Log.",
-  "requestFramePermissions": ["camera"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
